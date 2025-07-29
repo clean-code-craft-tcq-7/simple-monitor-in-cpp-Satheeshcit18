@@ -32,5 +32,5 @@ int vitalsOk(float temperature, float pulseRate, float spo2) {
     return 0;
   }
 
-  return 1;
+  return 1; 
 }
